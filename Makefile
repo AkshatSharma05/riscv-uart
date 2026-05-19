@@ -1,7 +1,7 @@
 CC = riscv64-unknown-elf-gcc
 
 CFLAGS = \
-    -march=rv32imac \
+    -march=rv32i \
     -mabi=ilp32 \
     -nostdlib \
     -ffreestanding
