@@ -7,4 +7,5 @@ Supporting articles:
 - Part 1: https://akshatsharma05.github.io/posts/riscv-1/
 - Part 2: https://akshatsharma05.github.io/posts/riscv-1/
 
+## Output
 <img width="803" height="176" alt="output" src="https://github.com/user-attachments/assets/41a23cdc-e2f9-433b-ab5c-7a9b153e832a" />
